@@ -1,3 +1,3 @@
 # IMDB-clone
 
-Hosted Link-   https://rishukumari0712.github.io/IMDB-clone/moviePage/moviePage.html
+Hosted Link-   https://rishukumari0712.github.io/IMDB-clone/
